@@ -4,7 +4,7 @@ public class FindMaxNumber {
 	
 	public static void main(String[] args) {
 		
-		int [] a = {1,5,8,4,3,6};
+		int [] a = {1,5,8,4,3,6,7};
 		
 		int max = a[0];//assume max is a[0]=1
 		
